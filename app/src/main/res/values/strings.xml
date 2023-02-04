@@ -1,8 +1,11 @@
 <resources>
     <string name="app_name">KvizAndroid02</string>
     <string name="textView">ВИКТОРИНА АНДРОИД</string>
-    <string name="textView2">Тут будет вопрос и варианты ответа\n\nA. Вариант 1\n\nB. вариант 2</string>
+    <string name="textView2">Тут будет вопрос и варианты ответа</string>
     <string name="a">A</string>
     <string name="c">C</string>
     <string name="b">B</string>
+    <string name="textView3">ВИКТОРИНА</string>
+    <string name="button_exit">Выход</string>
+    <string name="button_start">СТАРТ</string>
 </resources>
